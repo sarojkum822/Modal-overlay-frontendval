@@ -1,0 +1,38 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.showOffer {
+  display: flex;
+  justify-content: center;
+  margin-top: 30%;
+}
+.showOffer-button {
+  padding: 10px;
+}
+
+.content {
+  display: flex;
+  justify-content: center;
+}
+
+.container {
+  position: fixed;
+  width: 20rem;
+  background-color: gray;
+  padding: 5px;
+  margin: 30%;
+}
+
+.container div {
+  margin-top: 30px;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+
+.accept-btn {
+  display: flex;
+  justify-content: center;
+}
